@@ -1,10 +1,4 @@
-/******************************************************************************
 
-                            Online C Compiler.
-                Code, Compile, Run and Debug C program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 //Program to implement a stack using array implementation//
 #include<stdio.h> //standard input output header file//
